@@ -63,3 +63,38 @@ Execute the script to open the terminal with the custom setup:
 ```sh
 ./greenterminal.sh
 ```
+
+## Bonus Tip:
+If you want to advance your game a little bit, you can also add the bash file to your bin folder for accessing it anywhere by just typing `greenterminal`.
+
+1. Move the script to your bin directory (you might need sudo permissions):
+
+```sh
+sudo mv greenterminal.sh /usr/local/bin/greenterminal
+```
+
+2. Ensure the script is executable:
+
+```sh
+sudo chmod +x /usr/local/bin/greenterminal
+```
+
+Now, you can open your custom terminal setup from anywhere by simply typing:
+
+```sh
+greenterminal
+```
+
+## Enjoy Your Cool Terminal
+
+You now have a customized, cool-looking terminal setup that welcomes you with a personalized message every time you open it!
+
+Feel free to fork this repository and customize it further to suit your preferences.
+
+## Contributing
+
+If you have any suggestions or improvements, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
