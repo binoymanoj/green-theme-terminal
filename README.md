@@ -3,7 +3,9 @@
 Welcome to the repository for creating a cool-looking terminal setup with a green theme, fullscreen mode, and a custom welcome message using the `figlet` command! This setup is designed to enhance your terminal experience and make it visually appealing.
 
 ![Terminal Screenshot 1](./assets/Screenshot1.png)
+
 ![Terminal Screenshot 2](./assets/Screenshot2.png)
+
 ![Terminal Screenshot 3](./assets/Screenshot3.png)
 
 ## Features
