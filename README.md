@@ -70,7 +70,7 @@ If you want to advance your game a little bit, you can also add the bash file to
 1. Move the script to your bin directory (you might need sudo permissions):
 
 ```sh
-sudo mv greenterminal.sh /usr/local/bin/greenterminal
+sudo cp greenterminal.sh /usr/local/bin/greenterminal
 ```
 
 2. Ensure the script is executable:
